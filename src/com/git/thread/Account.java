@@ -7,6 +7,7 @@ package com.git.thread;
  */
 public class Account {
 
+	// 余额
 	private int money;
 	
 	public Account(int money){
